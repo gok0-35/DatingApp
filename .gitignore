@@ -1,0 +1,28 @@
+**/.DS_Store
+**/wwwroot/lib/*
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+**/obj/*
+**/bin/*
+
+## VS Code
+.vscode/
+*.code-workspace
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+
+## Sensitive files
+appsettings.Development.json
+appsettings.Production.json
+*.db
+*.db-shm
+*.db-wal
